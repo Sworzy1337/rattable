@@ -1,2 +1,1 @@
-cd C:\Users\%username%\AppData\Local\Temp
-Injector.exe --process-name javaw.exe --inject C:\Users\%username%\AppData\Local\esekadam.dll
+
